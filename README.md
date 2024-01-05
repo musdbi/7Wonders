@@ -3,14 +3,14 @@
 Our version of 7 Wonders.
 
 ## Authors
-Mustapha Doubabi
+* Mustapha Doubabi
 
-Chirine Hadad
+* Chirine Haddad
 
-Daryl Martin--Dipp
+* Daryl Martin--Dipp
 
-Pierre Neveu
+* Pierre Neveu
 
-Guillaume Pereira
+* Guillaume Pereira
 
-Nathan Zafizara-Benetrix
+* Nathan Zafizara-Benetrix
